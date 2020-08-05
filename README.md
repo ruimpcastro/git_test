@@ -1,1 +1,1 @@
-This is RUi's first git project!
+This is Rui's first git project!
